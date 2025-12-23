@@ -1,0 +1,14 @@
+C:\Users\suporte\source\repos\Lista de Compras\Lista de Compras\obj\Debug\net8.0\Lista de Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporte\source\repos\Lista de Compras\Lista de Compras\obj\Debug\net8.0\Lista de Compras.AssemblyInfoInputs.cache
+C:\Users\suporte\source\repos\Lista de Compras\Lista de Compras\obj\Debug\net8.0\Lista de Compras.AssemblyInfo.cs
+C:\Users\suporte\source\repos\Lista de Compras\Lista de Compras\obj\Debug\net8.0\Lista de Compras.csproj.CoreCompileInputs.cache
+C:\Users\suporte\source\repos\Lista de Compras\Lista de Compras\bin\Debug\net8.0\Lista de Compras.exe
+C:\Users\suporte\source\repos\Lista de Compras\Lista de Compras\bin\Debug\net8.0\Lista de Compras.deps.json
+C:\Users\suporte\source\repos\Lista de Compras\Lista de Compras\bin\Debug\net8.0\Lista de Compras.runtimeconfig.json
+C:\Users\suporte\source\repos\Lista de Compras\Lista de Compras\bin\Debug\net8.0\Lista de Compras.dll
+C:\Users\suporte\source\repos\Lista de Compras\Lista de Compras\bin\Debug\net8.0\Lista de Compras.pdb
+C:\Users\suporte\source\repos\Lista de Compras\Lista de Compras\obj\Debug\net8.0\Lista de Compras.dll
+C:\Users\suporte\source\repos\Lista de Compras\Lista de Compras\obj\Debug\net8.0\refint\Lista de Compras.dll
+C:\Users\suporte\source\repos\Lista de Compras\Lista de Compras\obj\Debug\net8.0\Lista de Compras.pdb
+C:\Users\suporte\source\repos\Lista de Compras\Lista de Compras\obj\Debug\net8.0\Lista de Compras.genruntimeconfig.cache
+C:\Users\suporte\source\repos\Lista de Compras\Lista de Compras\obj\Debug\net8.0\ref\Lista de Compras.dll
